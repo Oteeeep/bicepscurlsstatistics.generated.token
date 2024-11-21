@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bicep-curls-statistics-monitor",
+  "private_key_id": "dea32737a20f347602cf9189fe9556043c4d47b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrkM7Nbh5p8HHz\nJkBJeQrDUKkGCw8TVmNE2gxtFgnoGPAWIppacCOGgVcYhDUc7eAHE3eGoRj0CoQR\nOqk9QnQegMDSOQyPxYj28JrwUufcLq1FrdDwOSbt/jL7McAS80pAEGzIGhpcK3p9\n6lr6G2F+lzyrYXUfUiJUBGnnmaE0/nwl32TNLKu25E+AM1WSQ6JNdL+BwD+Wc1oU\nonXc828CoGyI5IMHXQQjNu8sjy0GoUcslDF7cBWUJhldBUHb1LAv5OiqrWZEwb/r\nvn5bJGMCHIyfNMF6+UJUBSnCNt6zirJHDresMTFjPCwvVQNZ8e3Ttb+txqzkd+RG\n4bUFDGf5AgMBAAECggEAEOSYSEgAfKPtRGjOya0+bw7hJbQvDtNhwOTLdm5GGXFj\nKnrLwf3qsZLItaRG6otNlMTI7xurrlPevyeMhHinoF1DHy/42as0mkQErYcsR1Td\nQNAlk5G9EJAICw3SAMut0vMLEwTm9Y5eaEmMHbZWejWABsv40VWwBZ/Nob1Rzzra\nTtfHx3bB1TCv1fRQmVNq/1gMPw8tAj6DL+yz4T0qK2sDkFstFtBy5Er1fgPfDZQ0\n5wpH1N/DkrdIV7Juagwpv2FbyyrG0j7sUmyIgeuv9EwNQZHJ1C00X89pW3+FHJd+\nD8oOrRzV57UUB8pcCT7x0FF9l0vCSWhOj7KTXSGNtQKBgQDTHOjohFYEgRmH0qsl\nr5Fl1ZlFZ0InekEvC/zM0gFL4ZsQv0NSVvOrlUruCAK7lDmCaf9THwzQ4GhKnGMN\nqFjm1M0UvWr7dOo6nriMrf4V435n0i/tMgndHtTUsdlvkZRUEYArXwyllaTLRCKP\n3/DK9H1gOYhuQk0lb7fX44wvCwKBgQDQC0zJMqQPbd3wtl9sKSbv1RVft7vH1o1G\nvy4PADFvynNUHch8qQ0KxNVH/z41U6ZPuC4qDER3L1LkBGbFidNPWDFejsdvpqIj\n2p3PJOj5X63AmxIadxJdHTxYmSg14d51uSRytN0EiqBk+G6Pa8NdiR78merK3ZI/\n5D/rL6q3iwKBgEg0eBimwoDR4viIfk7qaJFq5/xL391+u/KqZ/Fp1lWsuQuWTyFH\nahoCetlE1iJwBOds943nbcu3JRR3vo06SgXRPL9eNcwBZedcyAQdsmysHVzHD+tR\nlPwTAnooxhSZtyC1x5+N59ZugymeiS+qSUIxMvyJUPddJ+Oo/TkSs6yXAoGBAITa\nonddcm0z8OX14GvWv7mqLlMIps7P0TobfhMwQWGtPAa8WjpZTi3RUo3+jkBJocwI\nxtotKU+fFeTsdqCxChMCM8y5itxe4e3Zfqs4W9pb4j48CMyDu2Ng9xdw/r+h9Iji\n6Uai/v0WdaTlDN1jqMfDd9lBhTF1Wx6X6MWMlA1PAoGBAId9hg+UylAGWKNEPalR\nEvpk6q9FDP1Q75sG9GJq/4eHYAj4l6idthf6dW+jgGtD9oD3738L3yGOvLNJizAl\nBmY9CLTZOIYAcc7N2eiUz1hpaXVQPBXtEvGceWhFi8PH1Riavw5u4iVVPhWN35QC\nPiD8AUZ5zwBb2dYSLgULB0w7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zo2h0@bicep-curls-statistics-monitor.iam.gserviceaccount.com",
+  "client_id": "113317835614091564207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zo2h0%40bicep-curls-statistics-monitor.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
